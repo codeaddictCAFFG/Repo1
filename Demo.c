@@ -11,6 +11,10 @@ int main()
     int b = a + b;
     //Addition Added
 
+    int b = a - c;
+    //Substraction added
+    
+
 
     return 0;
 }
