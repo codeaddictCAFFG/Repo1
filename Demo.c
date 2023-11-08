@@ -6,7 +6,9 @@ int main()
     //Added Printf 
 
     int a = 10;
-    int c = 30;
+    int c = 700;
+
+    int b = a + b;
 
 
     return 0;
